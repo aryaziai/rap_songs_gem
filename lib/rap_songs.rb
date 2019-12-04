@@ -1,6 +1,6 @@
 
 require_relative "../config/environment.rb"
-# require "rap_songs/version"
+require "rap_songs/version"
 
 module RapSongs
  class Song
@@ -15,6 +15,7 @@ module RapSongs
     "https://youtu.be/yL9bRzwk0Ds",
     "https://youtu.be/87VaeIKXV1s",
     "https://youtu.be/myrXQebr488",
+    "https://www.youtube.com/watch?v=8UhshSef0zs",
     ].sample
   end
 

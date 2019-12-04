@@ -11,6 +11,6 @@ gem 'pry'
 
 gem 'require_all'
 
-gem 'launchy'
+gem 'launchy', '~> 2.4', '>= 2.4.3'
 
 
