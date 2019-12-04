@@ -1,6 +1,6 @@
 
 require_relative "../config/environment.rb"
-require "rap_songs/version"
+# require "rap_songs/version"
 
 module RapSongs
  class Song
