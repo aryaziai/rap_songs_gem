@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rap_songs (0.7.6)
+    rap_songs (0.7.7)
 
 GEM
   remote: https://rubygems.org/
