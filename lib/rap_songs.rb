@@ -1,6 +1,6 @@
 
 require_relative "../config/environment.rb"
-# require "rap_songs/version"
+require "rap_songs/version"
 
 module RapSongs
  class Song
@@ -29,6 +29,6 @@ module RapSongs
     song.execute
   end
 
-  binding.pry
+  # binding.pry
  end
 end
