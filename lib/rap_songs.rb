@@ -11,6 +11,9 @@ module RapSongs
     "Sheck Wes - YKTS https://www.youtube.com/watch?v=mVFKMomXMOc",
     "Yung Bans - Partna in Crime https://www.youtube.com/watch?v=v5ybdpttu40",
     "Trippie Redd - Lil Wayne https://www.youtube.com/watch?v=pmdI9YdLQ_o",
+    "Travis Scott - Skyfall ft. Young Thug - https://youtu.be/yL9bRzwk0Ds",
+    "Madeintyo - Need Dat Pack - https://youtu.be/87VaeIKXV1s",
+    "Kanye West 1997 Beat Tape - https://youtu.be/myrXQebr488",
     ].sample
   end
 
@@ -20,5 +23,7 @@ module RapSongs
   end
 
  end
+
  song = Song.new
+
 end
