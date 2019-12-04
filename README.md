@@ -18,7 +18,7 @@ Or install it yourself as:
     $ gem install rap_songs
 
 
-TODO: Write usage instructions here
+```RapSongs::Song.play```
 
 ## Development
 
