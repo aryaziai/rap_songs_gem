@@ -4,6 +4,8 @@ require_relative "../config/environment.rb"
 
 module RapSongs
  class Song
+ 
+#  RapSongs::Song.play
 
   def random_song
    ["IndigoChildRick - Vogue https://www.youtube.com/watch?v=ElOo0psAs3E",
@@ -22,8 +24,11 @@ module RapSongs
   puts "#{random_song} \n\n\n"
   end
 
+  def self.play
+    song = Song.new
+    song.execute
+  end
+
+  binding.pry
  end
-
- song = Song.new
-
 end
