@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["aryaziai"]
   spec.email         = ["arya721@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Plays Random Song}
+  spec.description   = %q{My first ruby gem. I want it to pick a random song}
   spec.homepage      = "https://github.com/aryaziai/rap_songs_gem"
   spec.license       = "MIT"
 
@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/aryaziai/rap_songs_gem"
-  spec.metadata["changelog_uri"] = "none"
+  spec.metadata["changelog_uri"] = "https://github.com/aryaziai/rap_songs_gem/blob/master/Changelog.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
