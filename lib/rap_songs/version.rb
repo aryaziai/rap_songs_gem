@@ -1,3 +1,3 @@
 module RapSongs
-  VERSION = "0.7.0"
+  VERSION = "0.7.5"
 end
