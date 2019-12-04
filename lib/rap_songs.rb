@@ -4,6 +4,6 @@ module RapSongs
   class Error < StandardError; end
  
   def hello
-    puts "hello"
+    puts "hello there"
   end
 end
