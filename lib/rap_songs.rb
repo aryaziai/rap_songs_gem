@@ -18,11 +18,7 @@ module RapSongs
   puts "\n\nHold Command + Press Link:\n"
   puts "#{random_song} \n\n\n"
   end
-    
-
-  song = Song.new
-  song.execute
-
 
  end
+ song = Song.new
 end
